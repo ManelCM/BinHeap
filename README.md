@@ -1,5 +1,3 @@
-# BinHeap
-Binary Heap Algorithm
 # Binary Heap Implementation
 
 This repository hosts a binary heap implementation, an essential data structure used for priority queues. A binary heap is a complete binary tree with the remarkable feature that the value stored at each node is less than or equal to the values of its children, ensuring efficient retrieval of elements with the highest or lowest priority.
